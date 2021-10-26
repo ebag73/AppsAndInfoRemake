@@ -35,6 +35,7 @@
             <asp:Button ID="btnAdminConfrim" runat="server" Height="21px" Text="Confrim" Visible="False" Width="67px" OnClick="btnAdminConfrim_Click" />
             &nbsp;&nbsp;&nbsp;
             <asp:Label ID="lblAdminConfirm" runat="server" Text="Label" Visible="False"></asp:Label>
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator10" runat="server" ControlToValidate="dropRole" ErrorMessage="Role is Required" ForeColor="Red"></asp:RequiredFieldValidator>
             <br />
             <asp:TextBox ID="txtUsername" runat="server" Height="23px" Width="152px"></asp:TextBox>
 &nbsp; <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="txtUsername" ErrorMessage="Username cannot be blank" ForeColor="Red">Username cannot be blank</asp:RequiredFieldValidator>
@@ -75,7 +76,7 @@
 &nbsp; <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" ControlToValidate="txtEmail" ErrorMessage="Email cannot be blank" ForeColor="Red">Email cannot be blank</asp:RequiredFieldValidator>
             <br />
             <br />
-            <span class="auto-style1"><strong>Confrim Email:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; </strong></span>
+            <span class="auto-style1"><strong>Confirm Email:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; </strong></span>
 &nbsp;<br />
             <asp:TextBox ID="txtEmailConfrim" runat="server" Height="23px" Width="152px"></asp:TextBox>
             &nbsp;
@@ -83,7 +84,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br />
             <br />
-            <span class="auto-style1"><strong>Frist Name: </strong></span>&nbsp;<br />
+            <span class="auto-style1"><strong>First Name: </strong></span>&nbsp;<br />
             <asp:TextBox ID="txtFirstname" runat="server" Height="23px" Width="152px"></asp:TextBox>
 &nbsp; <asp:RequiredFieldValidator ID="RequiredFieldValidator7" runat="server" ControlToValidate="txtFirstname" ErrorMessage="Please Enter a First Name" ForeColor="Red">Please Enter a First Name</asp:RequiredFieldValidator>
             <br />
