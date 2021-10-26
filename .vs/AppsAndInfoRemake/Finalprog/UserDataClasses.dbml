@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Users" Class="UserDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Users.mdf;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="UsersConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.quizanswers" Member="quizanswers">
+    <Type Name="quizanswer">
+      <Column Name="aid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="answer" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="quizid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="qqid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="correctanswer" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="qcount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="anum" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.quizzes" Member="quizzes">
+    <Type Name="quizze">
+      <Column Name="quizid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="quiztitle" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="courseid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="quizze_quizquestion" Member="quizquestions" ThisKey="quizid" OtherKey="quizid" Type="quizquestion" />
+      <Association Name="Class_quizze" Member="Class" ThisKey="courseid" OtherKey="Id" Type="Class" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.quizquestions" Member="quizquestions">
+    <Type Name="quizquestion">
+      <Column Name="qid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="question" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="quizid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="qcount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="quizze_quizquestion" Member="quizze" ThisKey="quizid" OtherKey="quizid" Type="quizze" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Roles" Member="Roles">
+    <Type Name="Role">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Role_user" Member="users" ThisKey="Id" OtherKey="RoleID" Type="user" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[user]" Member="users">
+    <Type Name="user">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="username" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="first_name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="last_name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="phone_number" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="degree" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="organization" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="role" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="status" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="color" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="RoleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Role_user" Member="Role1" ThisKey="RoleID" OtherKey="Id" Type="Role" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Classes" Member="Classes">
+    <Type Name="Class">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="description" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="videourl" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="professorName" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(4)" CanBeNull="true" />
+      <Column Name="lectureHours" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="studentNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="credits" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="review" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="zoomLink" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="courseTitle" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="announcementMessage" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Class_quizze" Member="quizzes" ThisKey="Id" OtherKey="courseid" Type="quizze" />
+    </Type>
+  </Table>
+</Database>

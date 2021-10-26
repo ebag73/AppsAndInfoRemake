@@ -1,0 +1,16 @@
+﻿body {
+}
+
+center {
+    position: absolute;
+    left: 37%;
+    top: 35%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: left;
+    margin: 1px;
+}
+
+outer {
+    margin: 1px;
+    display: inline-block;
+}

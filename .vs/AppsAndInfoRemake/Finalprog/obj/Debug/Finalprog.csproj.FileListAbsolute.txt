@@ -1,0 +1,826 @@
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\Finalprog.dll.config
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\Finalprog.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\Finalprog.pdb
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\csc.exe
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\csc.rsp
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\csi.exe
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\csi.rsp
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\vbc.exe
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\obj\Debug\Finalprog.csprojAssemblyReference.cache
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\ggulo\Desktop\ARGO SAD\Finalprog\Finalprog\obj\Debug\Finalprog.pdb
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\Finalprog.dll.config
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\Finalprog.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\Finalprog.pdb
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\csc.exe
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\csc.rsp
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\csi.exe
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\csi.rsp
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\vbc.exe
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\obj\Debug\Finalprog.csprojAssemblyReference.cache
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\ggulo\Source\Repos\Systems-AccountManagement\Finalprog\obj\Debug\Finalprog.pdb
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\Finalprog.dll.config
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\Finalprog.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\Finalprog.pdb
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\csc.exe
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\csc.rsp
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\csi.exe
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\csi.rsp
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\vbc.exe
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csprojAssemblyReference.cache
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\ggulo\Source\Repos\matthew-giannola\Apps-and-Info\Finalprog\obj\Debug\Finalprog.pdb
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\Finalprog.dll.config
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\Finalprog.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\Finalprog.pdb
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csc.exe
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csc.rsp
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csi.exe
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csi.rsp
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\vbc.exe
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.AssemblyReference.cache
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\hzant\Documents\GitHub\Apps-and-Info\Finalprog\obj\Debug\Finalprog.pdb
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\Finalprog.dll.config
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\Finalprog.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\Finalprog.pdb
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\csc.exe
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\csc.rsp
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\csi.exe
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\csi.rsp
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\vbc.exe
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\obj\Debug\Finalprog.csproj.AssemblyReference.cache
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\hzant\Documents\Design and Implementation\integration\WorkingVersion\Finalprog\obj\Debug\Finalprog.pdb
+D:\Integration\Apps-and-Info\Finalprog\bin\Finalprog.dll.config
+D:\Integration\Apps-and-Info\Finalprog\bin\Finalprog.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\Finalprog.pdb
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\csc.exe
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\csc.exe.config
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\csc.rsp
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\csi.exe
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\csi.exe.config
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\csi.rsp
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.AppContext.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Console.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.IO.Compression.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Net.Http.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Net.Sockets.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.ValueTuple.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XPath.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\vbc.exe
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\vbc.exe.config
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\vbc.rsp
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\VBCSCompiler.exe
+D:\Integration\Apps-and-Info\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+D:\Integration\Apps-and-Info\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Integration\Apps-and-Info\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Integration\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csprojAssemblyReference.cache
+D:\Integration\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+D:\Integration\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+D:\Integration\Apps-and-Info\Finalprog\obj\Debug\Finalprog.dll
+D:\Integration\Apps-and-Info\Finalprog\obj\Debug\Finalprog.pdb
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\Finalprog.dll.config
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\Finalprog.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\Finalprog.pdb
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\csc.exe
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\csc.rsp
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\csi.exe
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\csi.rsp
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\vbc.exe
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\obj\Debug\Finalprog.csproj.AssemblyReference.cache
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\hzant\Documents\GitHub\oi papa\Finalprog\obj\Debug\Finalprog.pdb
+C:\AIS Project\Finalprog\bin\Finalprog.dll.config
+C:\AIS Project\Finalprog\bin\Finalprog.dll
+C:\AIS Project\Finalprog\bin\Finalprog.pdb
+C:\AIS Project\Finalprog\bin\roslyn\csc.exe
+C:\AIS Project\Finalprog\bin\roslyn\csc.exe.config
+C:\AIS Project\Finalprog\bin\roslyn\csc.rsp
+C:\AIS Project\Finalprog\bin\roslyn\csi.exe
+C:\AIS Project\Finalprog\bin\roslyn\csi.exe.config
+C:\AIS Project\Finalprog\bin\roslyn\csi.rsp
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AIS Project\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.AppContext.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Console.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\AIS Project\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\AIS Project\Finalprog\bin\roslyn\vbc.exe
+C:\AIS Project\Finalprog\bin\roslyn\vbc.exe.config
+C:\AIS Project\Finalprog\bin\roslyn\vbc.rsp
+C:\AIS Project\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\AIS Project\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\AIS Project\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AIS Project\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AIS Project\Finalprog\obj\Debug\Finalprog.csproj.AssemblyReference.cache
+C:\AIS Project\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\AIS Project\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\AIS Project\Finalprog\obj\Debug\Finalprog.dll
+C:\AIS Project\Finalprog\obj\Debug\Finalprog.pdb
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\obj\Debug\Finalprog.csproj.AssemblyReference.cache
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\obj\Debug\Finalprog.pdb
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\Finalprog.dll.config
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\Finalprog.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\Finalprog.pdb
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\csc.exe
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\csc.rsp
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\csi.exe
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\csi.rsp
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\vbc.exe
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hzant\Documents\GitHub\AIS Project\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+D:\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csprojAssemblyReference.cache
+D:\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+D:\Apps-and-Info\Finalprog\obj\Debug\Finalprog.dll
+D:\Apps-and-Info\Finalprog\obj\Debug\Finalprog.pdb
+D:\Apps-and-Info\Finalprog\bin\Finalprog.dll.config
+D:\Apps-and-Info\Finalprog\bin\Finalprog.dll
+D:\Apps-and-Info\Finalprog\bin\Finalprog.pdb
+D:\Apps-and-Info\Finalprog\bin\roslyn\csc.exe
+D:\Apps-and-Info\Finalprog\bin\roslyn\csc.exe.config
+D:\Apps-and-Info\Finalprog\bin\roslyn\csc.rsp
+D:\Apps-and-Info\Finalprog\bin\roslyn\csi.exe
+D:\Apps-and-Info\Finalprog\bin\roslyn\csi.exe.config
+D:\Apps-and-Info\Finalprog\bin\roslyn\csi.rsp
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.AppContext.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Console.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.IO.Compression.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Net.Http.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Net.Sockets.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.ValueTuple.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XPath.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Apps-and-Info\Finalprog\bin\roslyn\vbc.exe
+D:\Apps-and-Info\Finalprog\bin\roslyn\vbc.exe.config
+D:\Apps-and-Info\Finalprog\bin\roslyn\vbc.rsp
+D:\Apps-and-Info\Finalprog\bin\roslyn\VBCSCompiler.exe
+D:\Apps-and-Info\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+D:\Apps-and-Info\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Apps-and-Info\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\Finalprog.dll.config
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\Finalprog.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\Finalprog.pdb
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\csc.exe
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\csc.rsp
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\csi.exe
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\csi.rsp
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\vbc.exe
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hzant\Documents\GitHub\Finalprog\obj\Debug\Finalprog.csproj.AssemblyReference.cache
+C:\Users\hzant\Documents\GitHub\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\hzant\Documents\GitHub\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\hzant\Documents\GitHub\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\hzant\Documents\GitHub\Finalprog\obj\Debug\Finalprog.pdb
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\Finalprog.dll.config
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\Finalprog.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\Finalprog.pdb
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\csc.exe
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\csc.rsp
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\csi.exe
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\csi.rsp
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\vbc.exe
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\obj\Debug\Finalprog.csproj.AssemblyReference.cache
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\hzant\Documents\GitHub\New folder\Finalprog\obj\Debug\Finalprog.pdb
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\Finalprog.dll.config
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\Finalprog.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\Finalprog.pdb
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csc.exe
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csc.rsp
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csi.exe
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\csi.rsp
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\vbc.exe
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.AssemblyReference.cache
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\beilk\Documents\GitHub\Apps-and-Info\Finalprog\obj\Debug\Finalprog.pdb
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\Finalprog.dll.config
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\Finalprog.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\Finalprog.pdb
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\csc.exe
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\csc.exe.config
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\csc.rsp
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\csi.exe
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\csi.exe.config
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\csi.rsp
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.AppContext.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Console.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.IO.Compression.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Net.Http.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.ValueTuple.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\vbc.exe
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\vbc.exe.config
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\vbc.rsp
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\VBCSCompiler.exe
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\obj\Debug\Finalprog.csprojAssemblyReference.cache
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\obj\Debug\Finalprog.csproj.CoreCompileInputs.cache
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\obj\Debug\Finalprog.csproj.CopyComplete
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\obj\Debug\Finalprog.dll
+C:\Users\ggulo\source\repos\ebag73\AppsAndInfoRemake\.vs\AppsAndInfoRemake\Finalprog\obj\Debug\Finalprog.pdb

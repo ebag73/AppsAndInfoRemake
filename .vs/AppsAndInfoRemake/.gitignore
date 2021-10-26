@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+.vs/Finalprog/config/applicationhost.config
+.vs/Finalprog/v16/.suo
+Finalprog/App_Data/Users.mdf
+Finalprog/App_Data/Users_log.ldf
+Finalprog/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
