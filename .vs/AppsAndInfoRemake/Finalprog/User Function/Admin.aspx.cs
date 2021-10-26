@@ -10,6 +10,7 @@ namespace Finalprog.User_Function
 {
     public partial class Admin : System.Web.UI.Page
     {
+
         public static UserDataClassesDataContext us = new UserDataClassesDataContext();
         public static int count = 0;
         protected void Page_Load(object sender, EventArgs e)
